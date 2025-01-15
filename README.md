@@ -1,1 +1,1 @@
-This is a chrome extension that measures the typing speed.
+This is a chrome extension that measures your typing speed.
